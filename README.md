@@ -61,6 +61,15 @@ Includes JSP files for front-end views and CSS for styling.
 - Book Search: Search for books across libraries with an intuitive interface.
 
 - Book Reservation: Reserve books across various libraries.
+## Book Reservation
+Reserve books across various libraries.
+
+## Credits
+This project was developed in collaboration with the following classmates:
+- [Nadia Jaay](https://github.com/NadiaJaay)
+- [Rachel Monero](https://github.com/RachelMonero)
+- [Michael Snook](https://github.com/MichaelSnook4th)
+
 
 ## Instructions to Build and Run
 
